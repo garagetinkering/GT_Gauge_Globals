@@ -1,6 +1,6 @@
 {
   "name": "GT_Gauge_Globals",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shared global constants, structs, and LVGL-related colors for Garage Tinkering's Gauge ESP32 projects.",
   "keywords": [
     "gt-gauge",
