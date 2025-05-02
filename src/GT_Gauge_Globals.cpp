@@ -1,4 +1,4 @@
-#include "Globals.h"
+#include "GT_Gauge_Globals.h"
 
 lv_color_t PALETTE_BLACK      = LV_COLOR_MAKE(0, 0, 0);
 lv_color_t PALETTE_WHITE      = LV_COLOR_MAKE(255, 255, 255);
